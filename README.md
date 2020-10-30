@@ -1,3 +1,3 @@
 my-first-html
 
-URL https://negasimichael.github.io/Code-refactor/
+URL https://negasimichael.github.io/my-fisrt-html/
