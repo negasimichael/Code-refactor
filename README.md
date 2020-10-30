@@ -1,3 +1,3 @@
 my-first-html
 
-URL https://negasimichael.github.io/my-fisrt-html/
+URL https://negasimichael.github.io/my-first-html/
